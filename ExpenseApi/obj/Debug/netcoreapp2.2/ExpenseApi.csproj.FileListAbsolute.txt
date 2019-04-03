@@ -1,0 +1,14 @@
+/Users/nmenego/Documents/Serko/ExpenseApi/bin/Debug/netcoreapp2.2/ExpenseApi.deps.json
+/Users/nmenego/Documents/Serko/ExpenseApi/bin/Debug/netcoreapp2.2/ExpenseApi.runtimeconfig.json
+/Users/nmenego/Documents/Serko/ExpenseApi/bin/Debug/netcoreapp2.2/ExpenseApi.runtimeconfig.dev.json
+/Users/nmenego/Documents/Serko/ExpenseApi/bin/Debug/netcoreapp2.2/ExpenseApi.dll
+/Users/nmenego/Documents/Serko/ExpenseApi/bin/Debug/netcoreapp2.2/ExpenseApi.pdb
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.csprojAssemblyReference.cache
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.csproj.CoreCompileInputs.cache
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.RazorAssemblyInfo.cache
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.RazorAssemblyInfo.cs
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.AssemblyInfoInputs.cache
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.AssemblyInfo.cs
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.RazorTargetAssemblyInfo.cache
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.dll
+/Users/nmenego/Documents/Serko/ExpenseApi/obj/Debug/netcoreapp2.2/ExpenseApi.pdb
